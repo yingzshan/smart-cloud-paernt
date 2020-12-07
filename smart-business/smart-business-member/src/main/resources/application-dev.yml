@@ -1,0 +1,8 @@
+server:
+  port: 7810
+spring:
+  datasource:
+    druid:
+      url: "jdbc:mysql://121.196.45.162:3306/ssm"
+      username: root
+      password: root
